@@ -12,5 +12,5 @@
 
 ## AgGridColumn Component
 
-- AgGridColumn Component [https://www.ag-grid.com/react-grid/component-types/]
+- AgGridColumn Component [https://www.ag-grid.com/react-grid/component-types/](https://www.ag-grid.com/react-grid/component-types/)
 - 위 링크를 잘 참조하여 Cell을 컨트롤 하자. CellRederer, CellEditor등 필요한 부분들이 많다.
